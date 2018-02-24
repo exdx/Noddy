@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/Denton24646/Noddy/issues"
   },
-  "homepage": "https://github.com/Denton24646/Noddy#readme"
+  "homepage": "https://github.com/Denton24646/Noddy#readme",
+  "keywords": [],
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "node-readability": "^3.0.0",
+    "sqlite3": "^3.1.13"
+  }
 }
